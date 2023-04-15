@@ -1,0 +1,20 @@
+.bg-img1 {
+    height: 500px;
+    background-color: #000;
+    background-size: cover;
+    background-image: url("img/hubble_ngc1079_potw2211a.jpg");
+}
+
+.bg-img2 {
+    height: 316px;
+    background-color: #000;
+    background-size: cover;
+    background-image: url("img/hubble_ngc1079_potw2211a.jpg");
+}
+
+.bg-img3 {
+    height: 316px;
+    background-color: #000;
+    background-size: cover;
+    background-image: url("img/hubble_ngc1079_potw2211a.jpg");
+}
